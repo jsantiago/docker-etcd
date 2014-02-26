@@ -1,0 +1,7 @@
+{
+    "name": "docker-etcd",
+    "version": "0.0.1",
+    "devDependencies": {
+        "node-etcd": "2.0.x"
+    }
+}
